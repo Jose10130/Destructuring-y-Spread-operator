@@ -1,0 +1,43 @@
+[{
+    "marca" :"Bandai",
+"nombre" : "Gamora",
+"precio":2000,
+"stock":110
+},
+{
+    "marca" :" Bandai",
+"nombre" : "Hulk",
+"precio":2200,
+"stock": 15
+},
+{
+    "marca" :"Bandai",
+"nombre" : "Thor",
+"precio":2100,
+"stock": 41
+},
+{
+    "marca" :"Bandai",
+"nombre" : " Vegeta ",
+"precio":2400,
+"cantida": 17
+},{
+    "marca" :"Bandai",
+"nombre" : "Sailor Pluto  ",
+"precio":1900,
+"stock": 11
+},
+{
+    "marca" :"Bandai",
+"nombre" : " Sailor Saturn",
+"precio":2800,
+"stock": 18
+},
+{
+    "marca" :"Bandai",
+"nombre" : "Wonder Woman ",
+"precio":3900,
+"stock": 9
+}
+
+]
